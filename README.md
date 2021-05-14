@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**j0sephsasson/j0sephsasson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on developing quantitative trading systems utilizing and ensemble of DL/ML/Statistical Arbitrage strategies. 
 ### 🌱 I’m currently learning Solidity (of course!)
