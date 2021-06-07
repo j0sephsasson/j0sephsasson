@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### 🔭 I’m currently working as a Machine Learning Consultant at a tech-consulting firm. 
+### 🔭 I’m currently working as a Machine Learning Consultant at an intelligent automation consulting firm. 
 ### 🌱 I’m learning Solidity (of course!)
 ### 💬 Ask me about quantitative analytics, algo-trading, sports, artificial intelligence, crypto, travelling... !
 ### 📫 How to reach me: joe.sasson@ashlingpartners.com
