@@ -10,3 +10,6 @@
 ### Work: https://www.fiverr.com/precisiontech
 
 ### Sharing thoughts and innovative knowledge here: https://sassonjoe66.medium.com/
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=j0sephsasson&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=j0sephsasson&langs_count=5&theme=tokyonight)]()
