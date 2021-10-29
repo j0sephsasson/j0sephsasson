@@ -7,6 +7,4 @@
 ### 📫 How to reach me: joe.sasson@ashlingpartners.com
 ### ⚡ Fun fact: I'm from the Midwest! Love Anime/Music/Films :)
 
-### Work: https://www.fiverr.com/precisiontech
-
 ### Sharing thoughts and innovative knowledge here: https://sassonjoe66.medium.com/
